@@ -51,7 +51,7 @@ Different methods were implemented to enable communication between VLANs:
 
 ## File Structure
 - `Network_Project_Efrat_Ilouz.pkt`: Packet Tracer project file for the network.
-![Screenshot 2024-12-09 185534](https://github.com/user-attachments/assets/d51c7162-8874-4f39-87b4-564ba6077065)
+![image](https://github.com/user-attachments/assets/212ef9a2-c694-41aa-93f8-d542e6ed6aaa)
 ![image](https://github.com/user-attachments/assets/60c06f5d-48c5-4ff0-8b84-a0ad8a84c77e)
 ![image](https://github.com/user-attachments/assets/baa78c86-2b75-45a4-b849-1104928293da)
 
