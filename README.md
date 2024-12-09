@@ -60,11 +60,8 @@ Different methods were implemented to enable communication between VLANs:
 2. Explore the network topology and configurations.
 3. Test connectivity by pinging between devices in different VLANs and offices.
 
-## Future Enhancements
-- Implement advanced security measures such as access control lists (ACLs).
-- Set up backup routes for high availability.
-
 ---
+
 
 ![image](https://github.com/user-attachments/assets/f16fd422-c5ed-4df8-a80a-ca4b30e313b1)
 ![image](https://github.com/user-attachments/assets/8385a50a-cf3b-404a-9c70-6eef510bf15e)
